@@ -19,7 +19,7 @@ import com.seshadev.chatApp.repo.RoomRepo;
 
 @RestController
 @RequestMapping("api/v1/room")
-@CrossOrigin("http://localhost:3000")
+@CrossOrigin("http://localhost:5173")
 
 public class RoomController {
 	private RoomRepo roomRepository;

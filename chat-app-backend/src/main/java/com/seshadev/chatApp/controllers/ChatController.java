@@ -14,7 +14,7 @@ import com.seshadev.chatApp.entities.Message;
 import com.seshadev.chatApp.entities.Room;
 import com.seshadev.chatApp.repo.RoomRepo;
 
-@CrossOrigin("http://localhost:3000")
+@CrossOrigin("http://localhost:5173")
 @Controller
 public class ChatController {
 	
